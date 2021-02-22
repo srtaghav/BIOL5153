@@ -1,26 +1,32 @@
+---
+output: md_document
+---
 Seyed Taghavi
 ============
+
 This is a basic and generic resume to get a handle on RMarkdown and Git/Github!
-----------------------------------
+
+
 srtaghav@uark.edu
-https://github.com/srtaghav/BIOL5153
-----------------------------------
+
+:   https://github.com/srtaghav/BIOL5153
+
 
 Education
 ---------
 
 2020-2024 (expected)
-:   **PhD, Cell and Molecular Biology**; University of Arkansas - Fayetteville
+:   PhD, Cell and Molecular Biology; University of Arkansas - Fayetteville
 
 2014-2018
-:   **BSc, Biophysics**; University of Arkansas - Fayetteville
+:   BSc, Biophysics; University of Arkansas - Fayetteville
 
-    *Minor: Mathematics*
+    Minor: Mathematics
 
 Experience
 ----------
 
-**CLASS+ Lead Tutor**
+CLASS+ Lead Tutor
 
 Tutor and guide students in topics related to math and physics.
 
