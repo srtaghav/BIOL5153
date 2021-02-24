@@ -1,8 +1,5 @@
 # Seyed Taghavi
 
-This is a basic and generic resume to get a handle on RMarkdown and
-Git/Github!
-
 <srtaghav@uark.edu>  
 <https://github.com/srtaghav/BIOL5153>
 
