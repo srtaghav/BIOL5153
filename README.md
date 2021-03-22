@@ -1,5 +1,7 @@
 # BIOL5153
 
+Added nucleotide_composition.py - this file takes an input file (example:nad4L.fasta), and counts the AGTC content as well as the sequence length and outputs this information to a text file
+
 Added resume.md - resume file in markdown
 
 Added assn03 - These are BLAST files running nad4L sequence against various databases
